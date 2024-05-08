@@ -5,8 +5,10 @@ Link to MS-ASL Dataset used for project: https://www.microsoft.com/en-us/downloa
 
 References:
 
-[1] Andrew Zisserman Joao Carreira. Quo vadis, action recogni-
-tion? a new model and the kinetics dataset. 2017.
+[1] Joao Carreira and Andrew Zisserman. Quo vadis, action recog-
+nition? a new model and the kinetics dataset. In proceedings of
+the IEEE Conference on Computer Vision and Pattern Recog-
+nition, pages 6299–6308, 2017.
 
 [2] Daniel Maturana and Sebastian Scherer. Voxnet: A 3d convolu-
 tional neural network for real-time object recognition. In 2015
