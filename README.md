@@ -1,5 +1,6 @@
 # CS1470_ASL_VideoClassification
 Final Project for CS1470 Deep Learning Spring 2024 @ Brown University
+Anushka Narayanan, Colden Bobowick, Kaitlyn Williams
 
 Link to MS-ASL Dataset used for project: https://www.microsoft.com/en-us/download/details.aspx?id=100121
 
